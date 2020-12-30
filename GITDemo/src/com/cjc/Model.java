@@ -6,6 +6,7 @@ public class Model {
 		
 		
 		System.out.println("first code commit");
+		System.out.println("second change");
 		
 	}
 
